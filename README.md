@@ -1,3 +1,3 @@
-### My personal portfolio made with ## Reactjs
+### My personal portfolio made with Reactjs
 
 
