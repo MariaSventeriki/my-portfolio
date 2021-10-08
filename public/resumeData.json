@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name":"Maria Sventeriki",
+    "description":"I am a Web Dev that likes technology, arts, cats and chocolate. In my free time i play games and learn more about coding",
+    "image":"profilepic.jpg",
+    "bio":"Born and raised in Greece, living in Germany for the last 5 years. After exprerimenting with theater and technology i decided to pursue programming and keep acting as a hobby. I am currently doing one year intensive course in Full-Stack Web Development, in Digital Career Institute in Berlin Germany. My prior studies in Cultural Technology and communication,broadened my knowledge and opened my mind, but the current pandemic pursuaded me to deepen and specify my knowledge in the field of programming. I always said to myself that this is not for me, well... i was wrong!",
+    "contactmessage":"Feel free to reach me",
+    "email": "mariasventeriki@gmail.com",
+    "github":"https://github.com/MariaSventeriki",
+    "project":"https://github.com/MariaSventeriki/Plantpedia-1",
+    "address":{
+      "city":"(Berlin)"
+    },
+    "website": "https://mariasventeriki.me/portfolio/",
+    "resumedownload":"SventerikiResume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/maria-sventeriki-4133a01b3/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/MariaSventeriki",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/maria_another",
+        "className":"fa fa-twitter"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are some of my main skills",
+    "education":[
+      {
+        "school":"Digital Career Institute",
+        "degree":"Web Development training",
+        "graduated":"November 2021",
+        "description":"Programming languages."
+      },
+      {
+        "school":"University of the Aegean",
+        "degree":"Cultural Technology and Communication",
+        "graduated":"May 2017",
+        "description":"BA with a variety of 52 courses including Digital Content and electronic Trade,Graphic Design, History of Technology, Intercultural Communication, Social Media, Multimedia Technologies."
+      }
+    ],
+    "work":[
+      {
+        "company":"Cleverlohn",
+        "title":"Full Stack Developer ",
+        "years":"September 2021 - Present",
+        "description":"Developing the main web app and tool, impelenting APIs."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML",
+        "level":"100%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"60%"
+      },
+      {
+        "name":"Javascript",
+        "level":"60%"
+      },
+      {
+        "name":"Nodejs",
+        "level":"40%"
+      },
+      {
+        "name":"Redux",
+        "level":"30%"
+      },
+      {
+        "name":"Python",
+        "level":"10%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Cleverlohn",
+        "category":"FinTech",
+        "image":"cleverlohn.jpg",
+        "url":"Coming soon"
+      },
+      {
+        "title":"Plantpedia",
+        "category":"The all-in-one solution for plant lovers",
+        "image":"plantpedia.png",
+        "url":"https://github.com/MariaSventeriki/Plantpedia-1"
+      },
+      {
+        "title":"Meditation app",
+        "category":"An app to relax",
+        "image":"medpic.jpg",
+        "url":"https://github.com/MariaSventeriki/meditation-app"
+      },
+      {
+        "title":"Quotes generator",
+        "category":"Random feminist quotes",
+        "image":"quotes.jpg",
+        "url":"https://github.com/MariaSventeriki/Feminist-Quotes-Generator-Js"
+      }
+    ]
+  }
+}
