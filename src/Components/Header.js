@@ -25,7 +25,7 @@ class Header extends Component {
             Hide navigation
           </a>
           <div style={{marginTop:"20px"}}>
-            <img src= {logo} style={{width: "60px"}, {height: "60px"}}/>
+            <a href="#home"><img src= {logo} style={{width: "60px"}, {height: "60px"}}/></a>
           </div>
           <ul id="nav" className="nav">
             <li className="current">

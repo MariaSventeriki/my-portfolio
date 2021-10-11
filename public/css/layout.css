@@ -751,6 +751,7 @@ call-to-action .button {
    text-align: left;
    float: left;
    color: #ebeeee;
+   margin-left: 200px;
 }
 
 #contact h4 {
@@ -761,12 +762,13 @@ call-to-action .button {
 #contact p.lead {
    font: 18px/36px 'opensans-light', sans-serif;
    padding-right: 3%;
+   margin-left: 200px;
 }
-#contact .header-col { padding-top: 6px; }
+#contact .header-col { padding-top: 4px; }
 
 
 /* contact form */
-#contact form { margin-bottom: 30px; }
+#contact form { margin-bottom: 30px; margin-left: 200px; }
 #contact label {
    font: 15px/24px 'opensans-bold', sans-serif;
    margin: 12px 0;
@@ -804,7 +806,7 @@ call-to-action .button {
    height: auto;
    display: inline-block;
 	border-radius: 0px;
-   margin-left: 26%;
+   margin-left: 56%;
 }
 #contact button.submit:hover {
 	color: #0D0D0D;
@@ -835,27 +837,6 @@ call-to-action .button {
    left: 18px;
    top: 17px;
 }
-
-
-/* Twitter Feed */
-#twitter {
-   margin-top: 12px;
-   padding: 0;
-}
-#twitter li {
-   margin: 6px 0px 12px 0;
-   line-height: 30px;
-}
-#twitter li span {
-   display: block;
-}
-#twitter li b a {
-   font: 13px/36px 'opensans-regular', Sans-serif;
-   color: #474747 !important;
-   border: none;
-}
-
-
 /* ------------------------------------------------------------------ */
 /* i. Footer
 /* ------------------------------------------------------------------ */
