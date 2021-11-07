@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Fade from "react-reveal";
-import SventerikiResume from '../Components/SventerikiResume.pdf'
+import MyResumeMS from '../Components/MyResumeMS.pdf'
 
 class About extends Component {
   render() {
@@ -15,7 +15,6 @@ class About extends Component {
     const zip = this.props.data.address.zip;
     const phone = this.props.data.phone;
     const email = this.props.data.email;
-    const resumeDownload = this.props.data.resumedownload;
 
     return (
       <section id="about">
@@ -51,7 +50,7 @@ class About extends Component {
                 </div>
                 <div className="columns download">
                   <p>
-                    <a href={SventerikiResume} download className="button" target="_blank">
+                    <a href={MyResumeMS} download className="button" target="_blank">
                       <i className="fa fa-download"></i>Download Resume
                     </a>
                   </p>
