@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import emailjs from 'emailjs-com'
 import { Fade, Slide } from "react-reveal";
-import styled from 'styled-components';
+
 
 const Contact = () => {
   const [name, setName] = useState('');
@@ -68,13 +68,13 @@ const Contact = () => {
   
 };
 
-const Span = styled.span`
+/* const Span = styled.span`
 display: none;
  text-align: center;
  .visible {
 	 display: block;
 }
  
-`
+` */
 
 export default Contact;

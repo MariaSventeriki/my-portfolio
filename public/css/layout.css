@@ -102,7 +102,7 @@ header .scrolldown a {
    width: 42px;
    font-size: 42px;
    line-height: 42px;
-   color: #fff;
+   color: rgb(114, 111, 111);
    border-radius: 100%;
 
    -webkit-transition: all .3s ease-in-out;

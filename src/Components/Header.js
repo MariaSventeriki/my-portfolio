@@ -7,7 +7,6 @@ class Header extends Component {
   render() {
     if (!this.props.data) return null;
 
-    const project = this.props.data.project;
     const github = this.props.data.github;
     const name = this.props.data.name;
     const description = this.props.data.description;
@@ -25,7 +24,7 @@ class Header extends Component {
             Hide navigation
           </a>
           <div style={{marginTop:"20px"}}>
-            <a href="#home"><img src= {logo} style={{width: "60px"}, {height: "60px"}}/></a>
+            <a href="#home"><img src= {logo} style={{width: "60px" ,height: "60px"}} alt=""/></a>
           </div>
           <ul id="nav" className="nav">
             <li className="current">
